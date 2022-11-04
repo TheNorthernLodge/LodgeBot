@@ -1,0 +1,14 @@
+{
+    "discordToken": "",
+    "channels": {
+        "rules": "",
+        "welcome": "",
+        "projectDirectory": "",
+        "announcements": ""
+    },
+    "mongoUri": "",
+    "guildId": "",
+    "roles": {
+        "admin": ""
+    }
+}
