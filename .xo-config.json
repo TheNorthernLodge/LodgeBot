@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "n/prefer-global/process": 0,
+        "import/extensions": 0,
+        "@typescript-eslint/restrict-template-expressions": 0,
+        "no-case-declarations": 0
+    }
+}
